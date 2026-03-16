@@ -1,6 +1,9 @@
 # SapriAurea
 # 📐 PAPER REVIEW: ELLIPTIC INTEGRALS BETWEEN GEOMETRY AND CALCULUS
 
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19047370.svg)](https://doi.org/10.5281/zenodo.19047370)
+
 ### A Comparative Analysis Between the **Sapri Aurea Formula** and the AGM Method
 
 ---
