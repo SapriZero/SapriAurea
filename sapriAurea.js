@@ -1,8 +1,11 @@
+
 /**
  * SAPRI AUREA FORMULA - Complete Implementation
- * Paper: "Elliptic Integrals: From the Geometry of φ to the AGM Algorithm"
+ * DOI: 10.5281/zenodo.19047370
+ * Paper: https://doi.org/10.5281/zenodo.19047370
  * Author: SapriZero
  * License: MIT
+ *
  * 
  * This implementation includes:
  * - AGM method (Arithmetic-Geometric Mean)

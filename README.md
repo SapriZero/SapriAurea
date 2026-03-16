@@ -444,6 +444,12 @@ To reduce error:
 
 ---
 
+# Sapri Aurea Formula
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19047370.svg)](https://doi.org/10.5281/zenodo.19047370)
+
+Complete implementation of the Sapri Aurea formula for elliptic integrals.
+
 **This paper is open to contributions and discussion.**  
 📧 sapriqbit@gmail.com  
 🌐 https://saprizero.github.io/cosmo/elisse/
