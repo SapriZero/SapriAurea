@@ -1,10 +1,10 @@
 # 📐 PAPER REVIEW: ELLIPTIC INTEGRALS BETWEEN GEOMETRY AND CALCULUS
 
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19097297.svg)](https://doi.org/10.5281/zenodo.19097297)
-
-https://github.com/SapriZero/SapriAurea/raw/main/paper_review_en
-
+[![DOI|44](https://zenodo.org/badge/DOI/10.5281/zenodo.19097297.svg)](https://doi.org/10.5281/zenodo.19097297)
+🌐 https://github.com/SapriZero/SapriAurea
+- [Full paper (PDF)](https://github.com/SapriZero/SapriAurea/raw/main/doc/sapri_aurea_paper)
+  
 ### A Comparative Analysis Between the **Sapri Aurea Formula** and the AGM Method
 
 ---
@@ -512,8 +512,7 @@ To reduce error:
 
 [![DOI|44](https://zenodo.org/badge/DOI/10.5281/zenodo.19097297.svg)](https://doi.org/10.5281/zenodo.19097297)
 Complete implementation of the Sapri Aurea formula for elliptic integrals.
-
-in inglese 
+[Full paper (PDF)](https://github.com/SapriZero/SapriAurea/raw/main/doc/sapri_aurea_paper.pdf)
 
 ## 📄 License
 
@@ -524,7 +523,8 @@ The mathematical formula itself is in the public domain, but its implementation 
 
 **This paper is open to contributions and discussion.**  
 📧 sapriqbit@gmail.com  
-🌐 https://saprizero.github.io/cosmo/elisse/
+🌐🌐 https://github.com/SapriZero/SapriAurea
+[Full paper (PDF)](https://github.com/SapriZero/SapriAurea/raw/main/doc/sapri_aurea_paper)
 
 ---
 
