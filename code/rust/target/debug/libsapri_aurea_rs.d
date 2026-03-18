@@ -1,0 +1,1 @@
+/home/etto/prj/sapriZero/code/aurea/target/debug/libsapri_aurea_rs.rlib: /home/etto/prj/sapriZero/code/aurea/src/calc.rs /home/etto/prj/sapriZero/code/aurea/src/core.rs /home/etto/prj/sapriZero/code/aurea/src/def.rs /home/etto/prj/sapriZero/code/aurea/src/fp.rs /home/etto/prj/sapriZero/code/aurea/src/lib.rs /home/etto/prj/sapriZero/code/aurea/src/urcm.rs
