@@ -1,7 +1,7 @@
 # 📐 PAPER REVIEW: ELLIPTIC INTEGRALS BETWEEN GEOMETRY AND CALCULUS
 
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19047370.svg)](https://doi.org/10.5281/zenodo.19047370)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19097297.svg)](https://doi.org/10.5281/zenodo.19097297)
 
 https://github.com/SapriZero/SapriAurea/raw/main/paper_review_en
 
@@ -510,9 +510,17 @@ To reduce error:
 
 # Sapri Aurea Formula
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19047370.svg)](https://doi.org/10.5281/zenodo.19047370)
-
+[![DOI|44](https://zenodo.org/badge/DOI/10.5281/zenodo.19097297.svg)](https://doi.org/10.5281/zenodo.19097297)
 Complete implementation of the Sapri Aurea formula for elliptic integrals.
+
+in inglese 
+
+## 📄 License
+
+- **Source code**: [GNU General Public License v3.0](LICENSE-CODE)
+- **Documentation and texts**: [Creative Commons Attribution-NonCommercial-ShareAlike 4.0](LICENSE-DOCS)
+
+The mathematical formula itself is in the public domain, but its implementation and explanation are protected by the licenses indicated above.
 
 **This paper is open to contributions and discussion.**  
 📧 sapriqbit@gmail.com  
