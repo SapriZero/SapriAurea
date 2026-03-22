@@ -3,7 +3,7 @@
 
 [![DOI|44](https://zenodo.org/badge/DOI/10.5281/zenodo.19097297.svg)](https://doi.org/10.5281/zenodo.19097297)
 🌐 https://github.com/SapriZero/SapriAurea
-- [Full paper (PDF)](https://github.com/SapriZero/SapriAurea/raw/main/doc/sapri_aurea_paper)
+- [Full paper (PDF)](https://github.com/SapriZero/SapriAurea/raw/main/doc/sapri_aurea_paper.pdf)
   
 ### A Comparative Analysis Between the **Sapri Aurea Formula** and the AGM Method
 
