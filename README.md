@@ -1,7 +1,3 @@
-Ecco il README finale in formato Markdown pulito, pronto per essere copiato e incollato su Obsidian o qualsiasi editor Markdown:
-
----
-
 # 📐 PAPER REVIEW: ELLIPTIC INTEGRALS BETWEEN GEOMETRY AND CALCULUS
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19187580.svg)](https://doi.org/10.5281/zenodo.19187580)  
@@ -51,6 +47,15 @@ When this line is tilted or curved, the distances progressively decrease:
 ```
 
 This reduction follows a certain regularity: **the ratio between a segment and the next tends to be constant**. This geometric observation is the foundation of everything.
+
+
+### Other work
+
+After publication, the author became aware of the independent work by Alexander Humphrey [IMH, 2026] which derives Standard Model parameters from holographic projections in AdS₅ onto a Randall‑Sundrum 3‑brane. The structural parallels noted in the README of the repository are worth further exploration, but do not affect the results presented here.
+
+🔗 https://zenodo.org/records/19170144
+
+---
 
 ### 📐 Geometric Approximations
 
